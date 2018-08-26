@@ -1,0 +1,9 @@
+.wrapper{
+    /* height: 582px; */
+    background-color: #ccccccb0;
+}
+
+.buttonWrapper {
+    display: flex;
+    justify-content: space-around;
+}
